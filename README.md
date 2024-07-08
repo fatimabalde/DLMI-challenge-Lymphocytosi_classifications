@@ -1,3 +1,4 @@
+# Lymphocytosis classification
 * The main objective of this challenge is the diagnosis of lymphocytosis. In clinical practice,
 this diagnosis relies on visual microscopic examination of blood cells, as well as consideration
 of clinical attributes such as age and blood lymphocyte count. Among the characteristics
